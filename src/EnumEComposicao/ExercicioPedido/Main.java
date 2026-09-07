@@ -1,10 +1,10 @@
-package EnumAndComposicao.ExercicioPedido;
+package EnumEComposicao.ExercicioPedido;
 
-import EnumAndComposicao.ExercicioPedido.Entities.Client;
-import EnumAndComposicao.ExercicioPedido.Entities.Order;
-import EnumAndComposicao.ExercicioPedido.Entities.OrderItem;
-import EnumAndComposicao.ExercicioPedido.Entities.Product;
-import EnumAndComposicao.ExercicioPedido.Enums.OrderStatus;
+import EnumEComposicao.ExercicioPedido.Entities.Client;
+import EnumEComposicao.ExercicioPedido.Entities.Order;
+import EnumEComposicao.ExercicioPedido.Entities.OrderItem;
+import EnumEComposicao.ExercicioPedido.Entities.Product;
+import EnumEComposicao.ExercicioPedido.Enums.OrderStatus;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

@@ -1,6 +1,6 @@
-package EnumAndComposicao.Post;
-import EnumAndComposicao.Post.Entities.Comment;
-import EnumAndComposicao.Post.Entities.Post;
+package EnumEComposicao.Post;
+import EnumEComposicao.Post.Entities.Comment;
+import EnumEComposicao.Post.Entities.Post;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

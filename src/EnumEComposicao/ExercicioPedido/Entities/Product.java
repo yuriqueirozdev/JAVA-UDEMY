@@ -1,4 +1,4 @@
-package EnumAndComposicao.ExercicioPedido.Entities;
+package EnumEComposicao.ExercicioPedido.Entities;
 
 public class Product {
     private String name;

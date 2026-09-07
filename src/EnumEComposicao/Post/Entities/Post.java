@@ -1,4 +1,4 @@
-package EnumAndComposicao.Post.Entities;
+package EnumEComposicao.Post.Entities;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

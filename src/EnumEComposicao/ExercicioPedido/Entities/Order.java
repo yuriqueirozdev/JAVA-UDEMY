@@ -1,6 +1,6 @@
-package EnumAndComposicao.ExercicioPedido.Entities;
+package EnumEComposicao.ExercicioPedido.Entities;
 
-import EnumAndComposicao.ExercicioPedido.Enums.OrderStatus;
+import EnumEComposicao.ExercicioPedido.Enums.OrderStatus;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

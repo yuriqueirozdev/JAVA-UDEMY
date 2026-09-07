@@ -1,4 +1,4 @@
-package EnumAndComposicao.ExercicioDepartment.Entities;
+package EnumEComposicao.ExercicioDepartment.Entities;
 
 public class Department {
     private String name;

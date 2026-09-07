@@ -1,4 +1,4 @@
-package EnumAndComposicao.Post.Entities;
+package EnumEComposicao.Post.Entities;
 
 public class Comment {
     private String text;

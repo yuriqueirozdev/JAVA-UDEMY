@@ -1,6 +1,6 @@
-package EnumAndComposicao.ExercicioDepartment.Entities;
+package EnumEComposicao.ExercicioDepartment.Entities;
 
-import EnumAndComposicao.ExercicioDepartment.Enums.WorkerLevel;
+import EnumEComposicao.ExercicioDepartment.Enums.WorkerLevel;
 
 import java.util.ArrayList;
 import java.util.List;
