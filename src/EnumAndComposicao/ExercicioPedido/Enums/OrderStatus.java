@@ -1,4 +1,4 @@
-package ExercicioPedido.Enums;
+package EnumAndComposicao.ExercicioPedido.Enums;
 
 public enum OrderStatus {
     PAGAMENTO_PENDENTE,

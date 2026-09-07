@@ -1,4 +1,4 @@
-package ExercicioPedido.Entities;
+package EnumAndComposicao.ExercicioPedido.Entities;
 
 public class OrderItem {
     private Integer quantity;

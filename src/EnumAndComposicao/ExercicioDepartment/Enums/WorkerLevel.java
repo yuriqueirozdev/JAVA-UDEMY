@@ -1,4 +1,4 @@
-package EnumAndComposicao;
+package EnumAndComposicao.ExercicioDepartment.Enums;
 
 public enum WorkerLevel {
     JUNIOR,

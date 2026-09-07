@@ -1,4 +1,7 @@
-package Post;
+package EnumAndComposicao.Post;
+import EnumAndComposicao.Post.Entities.Comment;
+import EnumAndComposicao.Post.Entities.Post;
+
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;

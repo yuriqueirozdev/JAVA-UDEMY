@@ -1,4 +1,9 @@
-package EnumAndComposicao;
+package EnumAndComposicao.ExercicioDepartment;
+import EnumAndComposicao.ExercicioDepartment.Entities.Department;
+import EnumAndComposicao.ExercicioDepartment.Entities.HourContract;
+import EnumAndComposicao.ExercicioDepartment.Entities.Trabalhador;
+import EnumAndComposicao.ExercicioDepartment.Enums.WorkerLevel;
+
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;

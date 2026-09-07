@@ -1,4 +1,4 @@
-package EnumAndComposicao;
+package EnumAndComposicao.ExercicioDepartment.Entities;
 
 import java.time.LocalDate;
 
