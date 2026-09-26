@@ -22,7 +22,8 @@ public class Circulo extends Forma {
         this.raio = raio;
     }
 
+    @Override
     public Double area(){
-        return 3.16 * Math.pow(raio, 2);
+        return Math.PI * Math.pow(raio, 2);
     }
 }
