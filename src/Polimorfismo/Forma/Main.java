@@ -25,7 +25,7 @@ public class Main {
             char escolha = sc.next().charAt(0);
             System.out.print("Color (BLACK/BLUE/RED): ");
             sc.nextLine();
-            Color cor = Color.valueOf(sc.nextLine());
+            Color cor = Color.valueOf(sc.nextLine().toUpperCase());
 
             if(escolha == 'r'){
                 System.out.print("Largura: ");
