@@ -1,4 +1,4 @@
-package Excecoes.Model.Exception;
+package Excecoes.Reserva.Model.Exception;
 
 public class DomainException extends Exception {
 

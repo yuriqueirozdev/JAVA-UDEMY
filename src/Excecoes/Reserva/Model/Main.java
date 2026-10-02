@@ -1,11 +1,11 @@
-package Excecoes.Model;
+package Excecoes.Reserva.Model;
 
-import Excecoes.Model.Entities.*;
+import Excecoes.Reserva.Model.Entities.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 import java.util.Locale;
-import Excecoes.Model.Exception.*;
+import Excecoes.Reserva.Model.Exception.*;
 
 
 public class Main {

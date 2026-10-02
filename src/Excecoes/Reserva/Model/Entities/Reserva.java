@@ -1,9 +1,9 @@
-package Excecoes.Model.Entities;
+package Excecoes.Reserva.Model.Entities;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
-import Excecoes.Model.Exception.*;
+import Excecoes.Reserva.Model.Exception.*;
 
 public class Reserva {
     private Integer numeroDoQuarto;
